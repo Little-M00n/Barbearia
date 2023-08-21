@@ -1,3 +1,25 @@
+body {
+     background: #CCCCCC;
+} 
+
+p {
+    text-align center;
+    background: #CCCCCC;
+}
+    
+em strong {
+    color:red;
+}
+
+    h1 {
+        background: #CCCCCC;
+        }
+
+        body {
+            background: #CCCCCC;
+        }
+=======
 p {
     text-align: center;
 }
+>>>>>>> c96d423fc017ef1ad8c9c20473124192a3003465
